@@ -9,5 +9,4 @@ function Props(props) {
     </div>
   );
 }
-
 export default Props;
