@@ -1,9 +1,11 @@
 import React from 'react';
 
+const HeaderTitle = "Header Component";
+
 function Header() {
   return (
     <header>
-      <h1>My Application Heaer</h1>
+      <h1>{HeaderTitle}</h1>
     </header>
   );
 }
